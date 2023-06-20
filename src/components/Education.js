@@ -45,7 +45,7 @@ const Education = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
             type="Bachelor of Engineering in Electronic and Communication"
-            time="2017-2014"
+            time="2014-2017"
             place="Marathwada Institute of Technology (MIT) Aurangabad"
           />
 
